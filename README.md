@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germanjimenezz18&layout=compact&theme=radical)
 
 ## Connect with me
-
 - [LinkedIn](https://www.linkedin.com/in/germanjimenezz18)
-- [Twitter](https://twitter.com/germanjimenezz18)
+
 
 Thank you for visiting my profile! Have a great day! 😊
